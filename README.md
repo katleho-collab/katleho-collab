@@ -93,7 +93,6 @@ My repositories are tagged with these skills to highlight my expertise:
 ## 📫 Connect with Me
 
 - GitHub:katleho-collab
-- LinkedIn:krealpitsoane
 - 📧 Email: [katleho.pitsoane@gmail.com](katleho.pitsoane@gmail.com)
 
 ---
