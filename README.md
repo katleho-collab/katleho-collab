@@ -43,19 +43,19 @@
 
 Here are some projects showcasing my skills:
 
-### **1️⃣ [Project Name 1]**
+### **1️⃣ [Responsive Tailwind footer]**
 
 - **Description:** A responsive web page built from scratch.  
 - **Technologies:** HTML, CSS, Tailwind CSS  
 - **Status:** ✅ Completed  
-- [Live Demo](https://your-project-link.com) | [Repository](https://github.com/yourusername/project-repo)
+- [Live Demo](https://github.com/katleho-collab/Module_08_KATPIT25110_fto2502_A2_katleho-pitsoane_SDF05.git) |https://github.com/katleho-collab/Module_08_KATPIT25110_fto2502_A2_katleho-pitsoane_SDF05.git)
 
-### **2️⃣ [Project Name 2]**
+### **2️⃣ [CSS Pet instagram profile]**
 
 - **Description:** An interactive feature using JavaScript (e.g., a simple calculator or form).  
 - **Technologies:** HTML, CSS, JavaScript  
 - **Status:** ⏳ In Progress  
-- [Repository](https://github.com/yourusername/project-repo)
+- [live Demo](https://github.com/yourusername/project-repo)https://github.com/katleho-collab/Module_06_KATPIT25110_fto2502_A2_katleho-pitsoane_SDF03.git
 
 
 ---
@@ -78,13 +78,10 @@ Here are some projects showcasing my skills:
 ## 🧑‍💻 Skills and Technologies
 
 My repositories are tagged with these skills to highlight my expertise:  
-- **Languages:** HTML, CSS, JavaScript  
+- **Languages:** HTML, CSS.
 - **Frameworks/Libraries:** Tailwind CSS  
 - **Tools:** Git, GitHub, VS Code  
 
-*(Add these tags to your repositories via GitHub’s repo settings for visibility)*
-
----
 
 ## 📚 Learning Goals
 
@@ -93,12 +90,10 @@ My repositories are tagged with these skills to highlight my expertise:
 - 💡 Start contributing to open-source projects to grow as a developer.
 
 ---
-
 ## 📫 Connect with Me
 
 - GitHub:katleho-collab
 - LinkedIn:krealpitsoane
-- [![Personal Website](https://img.shields.io/badge/-Website-00CC99?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsite.com) *(optional)*  
 - 📧 Email: [katleho.pitsoane@gmail.com](katleho.pitsoane@gmail.com)
 
 ---
