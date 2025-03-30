@@ -57,7 +57,6 @@ Here are some projects showcasing my skills:
 - **Status:** ⏳ In Progress  
 - [Repository](https://github.com/yourusername/project-repo)
 
-*(Update with your real projects and links)*
 
 ---
 
@@ -97,8 +96,8 @@ My repositories are tagged with these skills to highlight my expertise:
 
 ## 📫 Connect with Me
 
-- [![GitHub] katleho-collab
-- [![LinkedIn] krealpitsoane
+- GitHub:katleho-collab
+- LinkedIn:krealpitsoane
 - [![Personal Website](https://img.shields.io/badge/-Website-00CC99?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsite.com) *(optional)*  
 - 📧 Email: [katleho.pitsoane@gmail.com](katleho.pitsoane@gmail.com)
 
